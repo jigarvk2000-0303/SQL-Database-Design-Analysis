@@ -44,15 +44,4 @@ Clone the repository.
 
 Run the provided .sql file in MySQL Workbench to create tables and populate data.
 
-
-
-
-
-
-
-
-
-
-
-
-Explore tables and relationships to unders
+d relationships to unders
